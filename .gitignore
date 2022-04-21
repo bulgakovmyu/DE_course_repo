@@ -5,3 +5,7 @@ config.yml
 trash.py
 *.ipynb
 tests.py
+
+.vscode
+.DS_Store
+*/.DS_Store
